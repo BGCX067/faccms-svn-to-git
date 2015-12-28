@@ -1,0 +1,3 @@
+<cfinterface displayName="IValueBean">
+
+</cfinterface>

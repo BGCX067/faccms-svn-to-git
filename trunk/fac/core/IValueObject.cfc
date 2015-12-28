@@ -1,0 +1,3 @@
+<cfinterface displayName="IValueObject">
+
+</cfinterface>
